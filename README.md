@@ -9,7 +9,7 @@
 - **Goal**: Predict the dependent variable based on the independent variables.
 
 ### **Mind Map**
-![Linear Regression Mind Map](path/to/linear_regression_mind_map.png)
+![Linear Regression Mind Map](https://github.com/ParimalA24-DS/MACHINE-LEARNING-ALGORITHM-MINDMAP/blob/main/MLMINDMAPS/1.LINEARREGRESSION_MINDMAP.PNG)
 
 ### **Types**
 - **Simple Linear Regression**
@@ -59,7 +59,7 @@
 - **Based on**: Bayes' Theorem.
 
 ### **Mind Map**
-![Naive Bayes Mind Map](path/to/naive_bayes_mind_map.png)
+![Naive Bayes Mind Map](https://github.com/ParimalA24-DS/MACHINE-LEARNING-ALGORITHM-MINDMAP/blob/main/MLMINDMAPS/3.NAIVEBAYES_MINDMAP.PNG))
 
 ### **Types of Naive Bayes**
 - **Gaussian Naive Bayes**: 
